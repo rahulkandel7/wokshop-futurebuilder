@@ -3,6 +3,8 @@ import 'package:day1/screens/navbar.dart';
 import 'package:flutter/material.dart';
 
 void main() {
+
+// demo
   runApp(const MyApp());
 }
 
